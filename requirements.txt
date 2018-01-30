@@ -1,0 +1,5 @@
+tweetpy==0.1
+tweepy
+neovim
+pandas
+numpy
